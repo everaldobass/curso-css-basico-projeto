@@ -1,4 +1,5 @@
-# curso-css-basico-projeto Maatehus Battisti
+# curso-css-basico-projeto Matehus Battisti - Hora de Codar
+- Desenvolvido assistindo o Vídeo.
 
 # O que é CSS?
 - CSS é uma linguagem de estilização
