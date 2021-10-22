@@ -1,4 +1,4 @@
-# curso-css-basico-projeto Matehus Battisti - Hora de Codar
+# Criando uma **Curso & Projeto** - HTML5, CSS3 e JavaScript.
 - Desenvolvido assistindo o Vídeo.
 
 # O que é CSS?
@@ -30,4 +30,4 @@
 - Gedit;
 
 # Projeto Prático
-<img src='./curso-css-basico/img/css-basico.png ' width='50%'/>
+<img src='./curso-css-basico/img/css-basico.png ' width='100%'/>
